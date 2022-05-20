@@ -1,0 +1,7 @@
+﻿  6labapdsd.cpp
+C:\Users\uwuow\source\repos\6labapdsd\6labapdsd\6labapdsd.cpp(14,10): warning C4477: "printf": в строке форматирования "%*d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "__int64"
+C:\Users\uwuow\source\repos\6labapdsd\6labapdsd\6labapdsd.cpp(14,10): message : этот аргумент используется описателем преобразования
+C:\Users\uwuow\source\repos\6labapdsd\6labapdsd\6labapdsd.cpp(14,10): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\uwuow\source\repos\6labapdsd\6labapdsd\6labapdsd.cpp(14,10): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\uwuow\source\repos\6labapdsd\6labapdsd\6labapdsd.cpp(14,10): message : рекомендуется использовать "%I64d" в строке форматирования
+  6labapdsd.vcxproj -> C:\Users\uwuow\source\repos\6labapdsd\x64\Debug\6labapdsd.exe
